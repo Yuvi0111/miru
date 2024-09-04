@@ -6,18 +6,13 @@ export default class Discord {
   defaultStatus = {
     activity: {
       timestamps: { start: Date.now() },
-      details: 'Stream anime torrents, real-time.',
-      state: 'Watching anime',
+      details: 'Nothing going on here',
+      state: 'Nothing at all understand?',
       assets: {
         small_image: 'logo',
         small_text: 'https://github.com/ThaUnknown/miru'
       },
-      buttons: [
-        {
-          label: 'Download app',
-          url: 'https://github.com/ThaUnknown/miru/releases/latest'
-        }
-      ],
+      
       instance: true,
       type: 3
     }
