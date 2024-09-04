@@ -10,7 +10,7 @@ export default class Discord {
       state: 'Watching anime',
       assets: {
         small_image: 'logo',
-        small_text: ''
+        small_text: 'https://github.com/ThaUnknown/miru'
       },
       buttons: [
         {
