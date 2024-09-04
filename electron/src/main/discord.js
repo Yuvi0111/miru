@@ -10,7 +10,7 @@ export default class Discord {
       state: 'Nothing at all understand?',
       assets: {
         small_image: 'logo',
-        small_text: 'https://github.com/ThaUnknown/miru'
+        small_text: ''
       },
       
       instance: true,
